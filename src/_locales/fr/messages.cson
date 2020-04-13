@@ -184,3 +184,241 @@ unlimited:
 	message: 'Illimité'
 editFileSize:
 	message: 'Taille:'
+openInSidebar:
+	message: 'Open in sidebar'
+e_saveFileError:
+	message: 'Failed to save'
+e_threadStopped:
+	message: 'Unexpected stop'
+legacyFilenameEncoding:
+	message: 'Filename encoding for legacy websites:'
+address:
+	message: 'Address'
+enterAddress:
+	message: 'Enter download address list.\nBatch descriptors are supported, e.g. [1:10:2]'
+selectAddressFromList:
+	message: 'Select download address from the list.'
+invalidAddress:
+	message: 'The download address is invalid.'
+copyAddress:
+	message: 'Copy Address'
+filenamePlaceholder:
+	message: 'Enter filename, subfolder name or filename template'
+convert:
+	message: 'Convert'
+link:
+	message: 'Link'
+media:
+	message: 'Media'
+openFile:
+	message: 'Open file'
+openContainingFolder:
+	message: 'Open containing folder'
+copyLink:
+	message: 'Copy download link'
+openReferrer:
+	message: 'Open referrer page'
+remove:
+	message: 'Remove'
+deleteFile:
+	message: 'Delete file'
+actionTitleWithShift:
+	message: '$1\nShift: $2'
+text:
+	message: 'Text'
+pageInaccessibleToExtensions:
+	message: 'This page is inaccessible to extensions.'
+pageHasBeenClosed:
+	message: 'This page has been closed.'
+network:
+	message: 'Network'
+advanced:
+	message: 'Advanced'
+thirdPartyIcons:
+	message: 'Third party icons'
+customColor:
+	message: 'Custom color'
+default:
+	message: 'Default'
+customCSS:
+	message: 'Custom CSS'
+help:
+	message: 'Help'
+viewLogs:
+	message: 'View logs'
+rawData:
+	message: 'Raw data'
+i_load:
+	message: 'Load task $1 from previous session'
+i_create:
+	message: 'Create task $1'
+i_start:
+	message: 'Start downloading $1'
+i_pause:
+	message: 'Pause task'
+i_queue:
+	message: 'Queue task'
+i_initialConnectionInfo:
+	message: 'Initial connection established. Total size: $1; Multi-threading support: $2'
+yes:
+	message: 'Yes'
+no:
+	message: 'No'
+i_initialConnectionAborted:
+	message: 'Initial connection aborted'
+i_createConnection:
+	message: 'Create connection at $1'
+i_connectionEnded:
+	message: 'Connection ended'
+i_save:
+	message: 'Save file'
+i_completed:
+	message: 'Download completed'
+logLevel:
+	message: 'Logging level:'
+info:
+	message: 'Info'
+warning:
+	message: 'Warning'
+error:
+	message: 'Error'
+editDownload:
+	message: 'Edit download task'
+networkOptions:
+	message: 'Network options'
+downloadDirectly:
+	message: 'Download directly'
+askForOptions:
+	message: 'Ask for options'
+close:
+	message: 'Close'
+playSoundOnAllCompleted:
+	message: 'Play a sound when all downloads are completed'
+showNotificationOnAllCompleted:
+	message: 'Show a notification when all downloads are completed'
+allDownloadsCompleted:
+	message: 'All downloads have been completed.'
+editChecksum:
+	message: 'Checksum:'
+e_checksumError:
+	message: 'Checksum Error'
+i_checksum:
+	message: 'Checksum: $1 / $2'
+connectionAPI:
+	message: 'Connection API:'
+i_api:
+	message: 'API: $1, $2'
+connectionAPIUnavailable:
+	message: 'The selected connection API is not available.'
+open:
+	message: 'Open'
+monitorDownloadShowBuiltinActions:
+	message: 'Show quick actions for built-in download in automatic prompt'
+configureOpen:
+	message: 'Configure "Open"'
+configureSave:
+	message: 'Configure "Save"'
+theme:
+	message: 'Theme:'
+e_canceled:
+	message: 'Canceled'
+e_sizeError:
+	message: 'Size error'
+e_timeout:
+	message: 'Timeout'
+connectionTimeout:
+	message: 'Connection timeout:'
+transferTimeout:
+	message: 'Transfer timeout:'
+cacheMode:
+	message: 'Cache mode:'
+iconClickAction:
+	message: 'Action when clicking the icon:'
+dynamicMinChunkSize:
+	message: 'Dynamic minimal chunk size'
+contextMenuIconColor:
+	message: 'Context menu icon:'
+i_reset:
+	message: 'Reset task'
+reset:
+	message: 'Reset'
+confirmReset:
+	message: 'Reset this download?'
+clearCompletedTasks:
+	message: 'Clear completed tasks'
+customCSSSnippets:
+	message: 'Snippets'
+andAnotherNTasks:
+	message: '... and another $1 tasks'
+showTooltip:
+	message: 'Show tooltips on the extension icon'
+addPaused:
+	message: 'Add paused'
+showAddPaused:
+	message: 'Show "add paused" when creating tasks'
+openWindowIncognito:
+	message: 'Open extension windows in Private Browsing mode'
+# monitorPDFFiles:
+# 	message: 'Enable prompt for PDF files'
+inhibitSleep:
+	message: 'Inhibit system sleep when downloading'
+cascadeBuiltinTask:
+	message: 'Remove the built-in download item when removing a task'
+removeFailedTasksOnStart:
+	message: 'Remove failed tasks on browser start'
+clearFailedTasks:
+	message: 'Clear failed tasks'
+dialogAlwaysOnTop:
+	message: 'Make extension dialogs always on top of browser windows'
+panelWindowAlwaysOnTop:
+	message: 'Make extension main window always on top of browser windows'
+selectAll:
+	message: 'Select all'
+shortenTabTitle:
+	message: 'Shorten extension tab title to:'
+monitorFileTypes:
+	message: 'Enable prompt for:'
+PDF:
+	message: 'PDF'
+audio:
+	message: 'Audio'
+video:
+	message: 'Video'
+autoImportExtension:
+	message: 'Automatically import from other extensions'
+autoImportExtensionDesc:
+	message: 'To add an extension here, initiate a download in that extension.'
+segmentsInterval:
+	message: 'Writing interval of segmented files'
+segmentsIntervalInit:
+	message: 'Initial:'
+segmentsIntervalMax:
+	message: 'Maximum:'
+segmentsIntervalGrowFactor:
+	message: 'Increase by factor:'
+segmentsIntervalGrowPerFiles:
+	message: 'On files written:'
+i_segmentsInterval:
+	message: 'Writing interval: $1'
+storageAPI:
+	message: 'Storage API:'
+storageAPIMutableFile:
+	message: 'Firefox legacy (to be removed)'
+storageAPISegmentedFile:
+	message: 'Segmented files'
+e_APIUnsupported:
+	message: 'API unsupported'
+configureFilenameSearch:
+	message: 'Configure filename search'
+filenameSearchItemsExample:
+	message: 'Name http://example.com/?filename=%s'
+searchWith:
+	message: 'Search with $1'
+keepCompletedTasksContent:
+	message: 'Keep temporary storage of completed tasks'
+configureFilenameSearchDesc:
+	message: 'Format: Name http://example.com/?filename=%s\nUse %s in place of filename.\nIf the option "keep temporary storage of completed tasks" is enabled, %#1 and %#2 can be used to search SHA1 and SHA256 hashes.'
+importantChangesForFirefox75:
+	message: 'Important changes for Firefox 75'
+dismiss:
+	message: 'Dismiss'
