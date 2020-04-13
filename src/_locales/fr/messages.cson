@@ -185,15 +185,15 @@ unlimited:
 editFileSize:
 	message: 'Taille:'
 openInSidebar:
-	message: 'Open in sidebar'
+	message: 'Ouvrir dans la Sidebar'
 e_saveFileError:
-	message: 'Failed to save'
+	message: 'Sauvegarde échouée'
 e_threadStopped:
-	message: 'Unexpected stop'
+	message: 'Arrêt inattendu'
 legacyFilenameEncoding:
 	message: 'Filename encoding for legacy websites:'
 address:
-	message: 'Address'
+	message: 'Adresse'
 enterAddress:
 	message: 'Enter download address list.\nBatch descriptors are supported, e.g. [1:10:2]'
 selectAddressFromList:
@@ -201,35 +201,35 @@ selectAddressFromList:
 invalidAddress:
 	message: 'The download address is invalid.'
 copyAddress:
-	message: 'Copy Address'
+	message: "Copier l'addresse"
 filenamePlaceholder:
 	message: 'Enter filename, subfolder name or filename template'
 convert:
-	message: 'Convert'
+	message: 'Convertir'
 link:
-	message: 'Link'
+	message: 'Lien'
 media:
-	message: 'Media'
+	message: 'Média'
 openFile:
-	message: 'Open file'
+	message: 'Ouvrir un fichier'
 openContainingFolder:
 	message: 'Open containing folder'
 copyLink:
-	message: 'Copy download link'
+	message: 'Copier lien de téléchargement'
 openReferrer:
 	message: 'Open referrer page'
 remove:
-	message: 'Remove'
+	message: 'Retirer'
 deleteFile:
-	message: 'Delete file'
+	message: 'Supprimer fichier'
 actionTitleWithShift:
 	message: '$1\nShift: $2'
 text:
-	message: 'Text'
+	message: 'Texte'
 pageInaccessibleToExtensions:
-	message: 'This page is inaccessible to extensions.'
+	message: 'Cette page est inaccessible pour les extensions.'
 pageHasBeenClosed:
-	message: 'This page has been closed.'
+	message: 'Cette page a été fermée.'
 network:
 	message: 'Network'
 advanced:
